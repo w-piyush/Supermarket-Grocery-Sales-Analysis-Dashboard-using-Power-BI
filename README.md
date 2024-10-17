@@ -4,7 +4,7 @@ Supermarket Grocery Sales Analysis Dashboard
 
 The objective of this analysis is to evaluate the sales performance and profitability of supermarket categories in Tamil Nadu. This involves understanding overall sales trends, assessing profit margins before and after discounts, and examining regional variations in sales and profit. Additionally, the analysis aims to determine the effectiveness of discounts in driving sales volume and identifying consumer purchasing behaviors to inform strategic marketing and inventory decisions.
 
-This project focuses on using a dataset containing information about grocery sales at a supermarket. The dataset includes columns such as Order ID, Customer Name, Category, Sub Category, City, Order Date, Region, Sales, Discount, Profit, State, month_no, Month, andyear.
+This project focuses on using a dataset containing information about grocery sales at a supermarket. The dataset includes columns such as Order ID, Customer Name, Category, Sub Category, City, Order Date, Region, Sales, Discount, Profit, State, month_no, Month, and year.
 
 Questions used for visualization and dashboard : 
 
@@ -35,3 +35,7 @@ Dashboard:
 Requirements:
 Power BI Desktop: Ensure you have Power BI Desktop installed on your system to view and edit the dashboard.
 Data Files: The dashboard is based on e-commerce sales data which should be in a CSV or Excel format.
+
+
+Conclusion:
+The analysis reveals significant insights into supermarket sales dynamics in Tamil Nadu. Key categories, such as Beverages and Food Grains, demonstrate strong sales performance, while profitability varies across categories and regions. Discounts are shown to effectively boost sales, though careful management is necessary to preserve profit margins. Overall, these findings provide a foundation for optimizing marketing strategies and inventory management, ensuring that resources are allocated to meet consumer demand effectively.
