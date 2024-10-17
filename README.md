@@ -31,6 +31,7 @@ Questions used for visualization and dashboard :
 Dashboard:
 
 
+![Screenshot 2024-10-17 124319](https://github.com/user-attachments/assets/3e7080e2-4ac9-4ff8-8959-073889372cf3)
 
 Requirements:
 Power BI Desktop: Ensure you have Power BI Desktop installed on your system to view and edit the dashboard.
