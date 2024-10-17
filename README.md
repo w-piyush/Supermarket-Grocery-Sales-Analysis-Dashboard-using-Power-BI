@@ -12,7 +12,7 @@ Questions used for visualization and dashboard :
 
 2. What is the average discount offered across different regions?
 
-3. Which are the top 5 subcategories in terms of profit after discounts?
+3. Which are the top 5 subcategories for profit after discounts?
 
 4. Which subcategories generate the most sales across regions?(top 6)
 
@@ -24,7 +24,7 @@ Questions used for visualization and dashboard :
 
 8. What is the sales distribution across different categories?
 
-9. How many total orders were placed in each region for the top cities?
+9. How many orders were placed in each region for the top cities?
 
 10. SLicers for city and category are also added.
 
@@ -34,6 +34,7 @@ Dashboard:
 
 Requirements:
 Power BI Desktop: Ensure you have Power BI Desktop installed on your system to view and edit the dashboard.
+
 Data Files: The dashboard is based on e-commerce sales data which should be in a CSV or Excel format.
 
 
